@@ -88,6 +88,19 @@ h2 {
 .project-description {
   padding: 120px 60px;
 }
+nav {
+  padding: 20px 0;
+}
+
+.logo {
+  max-width: 150px;
+}
+.active {
+  color: var(--branding-color) !important;
+}
+.nav-item {
+  padding: 0 10px;
+}
 @media (max-width: 968px) {
   h1 {
     font-size: 50px;
